@@ -1,7 +1,11 @@
 <?php
-  class Pingpong
 
+  class PingPongGenerator
+    {
+      function generatePingPongArray($number)
       {
-        private $Pingpong
+
       }
+
+    }
 ?>
